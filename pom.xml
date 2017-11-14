@@ -3,4 +3,16 @@
       <groupId>com.mycompany.calculator</groupId>
       <artifactId>calculator</artifactId>
       <version>1</version>
-    </project> 
+      <repositories>
+    <repository>
+      <id>central</id>
+      <name>pravalika-maven</name>
+      <layout>default</layout>
+      <url>https://github.com/pravalikakola/pravalika-maven.git/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+  </repositories> 
+      </project> 
+   
