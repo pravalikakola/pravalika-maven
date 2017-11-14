@@ -12,14 +12,6 @@
 		<connection>scm:git:git://github.com/pravalikakola/pravalika-maven.git</connection>
 		<developerConnection>scm:git:git@github.com:pravalikakola/pravalika-maven.git</developerConnection>
 	</scm>
- <distributionManagement>
-      
-    <repository>
-      <id>central</id>
-      <name>pravalika-maven</name>
-      <layout>default</layout>
-      <url>https://github.com/pravalikakola/pravalika-maven.git/pom.xml</url>
-    </repository>
-  
+ 
       </project> 
    
