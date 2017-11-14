@@ -4,13 +4,13 @@
       <artifactId>calculator</artifactId>
       <version>1</version>
       <distributionManagement>
-      <repositories>
+      
     <repository>
       <id>central</id>
       <name>pravalika-maven</name>
       <layout>default</layout>
       <url>https://github.com/pravalikakola/pravalika-maven.git/</url>
     </repository>
-  </repositories> 
+  
       </project> 
    
