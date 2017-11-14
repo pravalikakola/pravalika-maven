@@ -6,7 +6,13 @@
       <groupId>com.mycompany.calculator</groupId>
       <artifactId>calculator</artifactId>
       <version>1</version>
-      <distributionManagement>
+   
+   <scm>
+		<url>https://github.com/pravalikakola/pravalika-maven</url>
+		<connection>scm:git:git://github.com/pravalikakola/pravalika-maven.git</connection>
+		<developerConnection>scm:git:git@github.com:pravalikakola/pravalika-maven.git</developerConnection>
+	</scm>
+ <distributionManagement>
       
     <repository>
       <id>central</id>
